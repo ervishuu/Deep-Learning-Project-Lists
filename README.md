@@ -7,3 +7,6 @@
 | Sr No | Name | Link |
 |  ---         |    ---    |          ---       |
 | 1| Malaria-Detection-using-Keras  |[Click Here](https://github.com/ervishuu/Malaria-detection-using-deep-learning)   |
+|2 | Face Mask Detection |[Click Here](https://github.com/ervishuu/Face-Mask-Detection) |
+|3 | Horse-and-Human-classification-with-Keras |[Click Here](https://github.com/ervishuu/Human-Or-Hourse-Classification)|
+|4 | Fashion-MNIST-Using-Keras | [Click Here](https://github.com/ervishuu/Fashion-MNIST-Using-Keras)|
