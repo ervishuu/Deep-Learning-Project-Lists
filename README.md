@@ -1,5 +1,7 @@
-# Deep-Learning-Project-Lists
+# Deep-Learning-Project-Lists 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲
 
+
+> This list is continuously updated. - You can take pull request and contribute.
 
 
 | Sr No | Name | Link |
