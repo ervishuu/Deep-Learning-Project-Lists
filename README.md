@@ -6,7 +6,8 @@
 
 | Sr No | Name | Link |
 |  ---         |    ---    |          ---       |
-| 1| Malaria-Detection-using-Keras  |[Click Here](https://github.com/ervishuu/Malaria-detection-using-deep-learning)   |
-|2 | Face Mask Detection Web App |[Click Here](https://github.com/ervishuu/Face-Mask-Detection-Web-App) |
-|3 | Horse-and-Human-classification-with-Keras |[Click Here](https://github.com/ervishuu/Human-Or-Hourse-Classification)|
-|4 | Fashion-MNIST-Using-Keras | [Click Here](https://github.com/ervishuu/Fashion-MNIST-Using-Keras)|
+| 1| Agriculture-Web-Application |[Click Here](https://github.com/ervishuu/Agriculture-Web-Application)   |
+| 2| Malaria-Detection-using-Keras  |[Click Here](https://github.com/ervishuu/Malaria-detection-using-deep-learning)   |
+|3| Face Mask Detection Web App |[Click Here](https://github.com/ervishuu/Face-Mask-Detection-Web-App) |
+|4 | Horse-and-Human-classification-with-Keras |[Click Here](https://github.com/ervishuu/Human-Or-Hourse-Classification)|
+|5 | Fashion-MNIST-Using-Keras | [Click Here](https://github.com/ervishuu/Fashion-MNIST-Using-Keras)|
